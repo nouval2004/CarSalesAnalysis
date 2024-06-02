@@ -11,4 +11,4 @@ Determining Factors Influencing Selling Prices: Investigating the factors that i
 Recognizing Popular and Expensive Brands and Body Types: Identifying the top brands and body types that are popular and have the highest selling prices.
 Developing Effective Marketing and Sales Strategies: Using insights from the analysis to develop strategies for marketing and selling vehicles more effectively.
 
-note : collection of data in zip files
+note : collection of dataset in zip files
