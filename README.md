@@ -10,3 +10,5 @@ Identifying Sales Trends Over Time: Analyzing sales data to identify trends and 
 Determining Factors Influencing Selling Prices: Investigating the factors that influence the selling prices of vehicles, such as condition, mileage, and market trends.
 Recognizing Popular and Expensive Brands and Body Types: Identifying the top brands and body types that are popular and have the highest selling prices.
 Developing Effective Marketing and Sales Strategies: Using insights from the analysis to develop strategies for marketing and selling vehicles more effectively.
+
+note : collection of data in zip files
